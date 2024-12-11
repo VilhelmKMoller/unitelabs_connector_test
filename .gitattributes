@@ -2,4 +2,5 @@
 * text=auto
 
 # remove my env files
+.venv
 .venv*
