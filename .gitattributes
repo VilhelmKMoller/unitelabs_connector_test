@@ -3,4 +3,4 @@
 
 # remove my env files
 .venv
-.venv*
+.venv/*
